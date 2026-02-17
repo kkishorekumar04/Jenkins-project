@@ -216,7 +216,5 @@ A complete **DevOps blueprint** for deploying Java applications in the cloud.
 4. Configure Jenkins pipeline → use provided `Jenkinsfile`
 5. Enable GitHub Webhooks → auto-trigger deployments
 6. Configure Route 53 → map amoghtech.cloud to Proxy server public IP
-7. Access app via → http://amoghtech.cloud/
-
 ---
 
