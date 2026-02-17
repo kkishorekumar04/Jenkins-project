@@ -210,7 +210,7 @@ A complete **DevOps blueprint** for deploying Java applications in the cloud.
 
 ##  How to Use
 
-1. Clone repo → `git clone https://github.com/Amogh902/DevOps_MJ_code.git`
+1. Clone repo → `git clone https://github.com/kkishorekumar04/Jenkins-project.git`
 2. Run Terraform → `terraform apply`
 3. Run Ansible → `ansible-playbook site.yml`
 4. Configure Jenkins pipeline → use provided `Jenkinsfile`
